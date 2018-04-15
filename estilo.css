@@ -26,7 +26,7 @@ h2{
 	letter-spacing:0.02em;
 	color:rgba(255,255,255,0.6);
 	padding:0.2em 0;
-	text-shadow: 1px 1px 0 #999;
+	text-shadow: 3px 3px 0 #999;
 	text-align:center;
 }
 
@@ -34,7 +34,7 @@ h3{
 	letter-spacing:0.2em;
 	color:rgba(252,223,44,0.7);
 	padding:2em 0 0.6em 0;
-	text-shadow: 1px 1px 0 #ccc;
+	text-shadow: 3px 3px 0 #ccc;
 	text-align:center;
 
 }
