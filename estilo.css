@@ -17,7 +17,7 @@ h1, h2, h3, h4{
 
 h1{
 	letter-spacing:0.1em;
-	color:rgba(0,0,0,0.9);
+	color:rgba(255,255,255,1);
 	width:90%
 	text-shadow: 1px 1px 0 #999;
 	text-align:center;
@@ -114,7 +114,7 @@ video{
 .segunda{
 	min-height:300px;
 	text-align:right;
-	background-color:rgba(0,0,0,1);
+	background-color:rgba(231,240,239,1);
 	background-image:url('media/dupla-02.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
