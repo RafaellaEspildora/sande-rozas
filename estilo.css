@@ -5,7 +5,7 @@
 
 body{
 	background:rgba(0,0,0,1);
-	color:rgba(252,223,44,1);
+	color:rgba(255,255,255,1);
 	font-family: 'Roboto', sans-serif;
 	font-weight:400;
 }
@@ -24,7 +24,7 @@ h1{
 
 h2{
 	letter-spacing:0.02em;
-	color:rgba(252,223,44,0.6);
+	color:rgba(255,255,255,0.6);
 	padding:0.2em 0;
 	text-shadow: 1px 1px 0 #999;
 	text-align:center;
