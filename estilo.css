@@ -27,15 +27,15 @@ h2{
 	letter-spacing:0.01em;
 	color:rgba(128,128,128,1);
 	padding:0.2em 0;
-	text-shadow: 1px 1px 0 #999;
+	
 	text-align:center;
 }
 
 h3{
 	letter-spacing:0.2em;
-	color:rgba(255,255,155,1);
+	color:rgba(255,140,0,1);
 	padding:2em 0 0.6em 0;
-	text-shadow: 1px 1px 0 #ccc;
+	
 	text-align:center;
 
 }
@@ -84,13 +84,13 @@ video{
 	}
 
 .dupla a{
-	color:rgba(255,255,255,0.75);
+	color:rgba(0,0,0,1);
 	text-decoration:none;
 	font-weight:700;
 }
 
 .dupla a:hover{
-	color:rgba(255,255,255,1);
+	color:rgba(0,0,0,1);
 	text-decoration:underline;
 }
 
@@ -137,7 +137,7 @@ video{
 #portafolio{
 	width:100%;
 	padding-bottom:1%;
-	background:linear-gradient(to bottom right, #F2E6D4, #E7F0EF);
+	background:linear-gradient(to bottom right, #DCDCDC, #DCDCDC);
 }
 
 .item {
